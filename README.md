@@ -1,5 +1,5 @@
 <div align="center">
-<img src=".github/images/Junior_Programmer-Pathway.webp" height="150">
+<img src=".github/images/unity/junior_programmer.webp" height="150">
 <h1>Unity: Junior Programmer</h1>
 </div>
 
@@ -14,3 +14,12 @@ Designed for anyone interested in learning to code or obtaining an entry-level U
 - Level 2 Application Scripting
 - Level 2 Programming Theory
 ---
+<br>
+
+<h1><img src=".github/images/unity/jp_mission_1_25x25.webp"> Programming Basics</h1>
+
+<h1><img src=".github/images/unity/jp_mission_2_25x25.webp"> Programming Simple Functionality</h1>
+
+<h1><img src=".github/images/unity/jp_mission_3_25x25.webp"> Manage Scene Flow and Data</h1>
+
+<h1><img src=".github/images/unity/jp_mission_3_25x25.webp"> Apply Object-Oriented Principles</h1>
