@@ -16,10 +16,28 @@ Designed for anyone interested in learning to code or obtaining an entry-level U
 ---
 <br>
 
-<h1><img src=".github/images/unity/jp_mission_1_25x25.webp"> Programming Basics</h1>
+<h2><img src=".github/images/unity/jp_mission_1_25x25.webp"> Programming Basics</h2>
 
-<h1><img src=".github/images/unity/jp_mission_2_25x25.webp"> Programming Simple Functionality</h1>
+- Unit 1: Player Control
+- Introduction to Project Management &amp; Teamwork
+- Unit 2: Basic Gameplay
+- Challenge: Mod the Cube
 
-<h1><img src=".github/images/unity/jp_mission_3_25x25.webp"> Manage Scene Flow and Data</h1>
+<h2><img src=".github/images/unity/jp_mission_2_25x25.webp"> Programming Simple Functionality</h2>
 
-<h1><img src=".github/images/unity/jp_mission_3_25x25.webp"> Apply Object-Oriented Principles</h1>
+- Unit 3: Sound & Effects
+- Unit 4: Gameplay Mechanics
+- Unit 5: User Interface
+- Introduction to User Feedback &amp; Testing
+- Challenge: Counting Prototype
+- Challenge: Debug the App
+
+<h2><img src=".github/images/unity/jp_mission_3_25x25.webp"> Manage Scene Flow and Data</h2>
+
+- Scene Flow & Data Persistence
+- Challenge: Data Persistence
+
+<h2><img src=".github/images/unity/jp_mission_3_25x25.webp"> Apply Object-Oriented Principles</h2>
+
+- Object-Oriented Programming
+- Challenge: Programming Theory
