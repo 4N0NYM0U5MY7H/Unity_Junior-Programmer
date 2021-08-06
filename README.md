@@ -16,28 +16,53 @@ Designed for anyone interested in learning to code or obtaining an entry-level U
 ---
 <br>
 
-<h2><img src=".github/images/unity/jp_mission_1_25x25.webp"> Programming Basics</h2>
+| <h3 align="center">Project</h3>     | <h3 align="center">Summary</h3>                                                                  |
+| :---------------------------------- | :----------------------------------------------------------------------------------------------- |
+| [Player Control][cwc01]             | Build a basic [driving simulator][proto01] and [flight simulator][chal01].                       |
+| [Mod the Cube][jp01]                | Modidfy a script to [change the behviour][jp01] of an object.                                    |
+| [Basic Gameplay][cwc02]             | Build a simple top-down [animal feeding game][proto02] and [game of fetch][chal02].              |
+| [Sound and Effects][cwc03]          | Build a face-paced endless side-scroller both [on the ground][proto03] and [in the air][chal03]. |
+| [Gameplay Mechanics][cwc04]         | Build an arcade-style [Sumo battle][proto04] and [soccer game][chal04].                          |
+| [User Interfaces][cwc05]            | Build a reflexive [clicking game][proto05] and [whack-a-mole][chal05] style game.                |
+| [Counting ProtoType][jp02]          | [view project][jp02]                                                                             |
+| [Debug the App][jp03]               | [view project][jp03]                                                                             |
+| [Scene Flow & Data][jp04]           | [view project][jp04]                                                                             |
+| [Data Persistence][jp05]            | [view project][jp05]                                                                             |
+| [Object-Oriented Programming][jp06] | [view project][jp06]                                                                             |
+| [Programming Theory][jp07]          | [view project][jp07]                                                                             |
 
-- Unit 1: Player Control
-- Introduction to Project Management &amp; Teamwork
-- Unit 2: Basic Gameplay
-- Challenge: Mod the Cube
+<br>
+<hr>
 
-<h2><img src=".github/images/unity/jp_mission_2_25x25.webp"> Programming Simple Functionality</h2>
+##### "Unity", Unity logos, and other Unity trademarks are trademarks or registered trademarks of Unity Technologies or its affiliates in the U.S. and elsewhere. Other names or brands are trademarks of their respective owners.
 
-- Unit 3: Sound & Effects
-- Unit 4: Gameplay Mechanics
-- Unit 5: User Interface
-- Introduction to User Feedback &amp; Testing
-- Challenge: Counting Prototype
-- Challenge: Debug the App
+<!-- course quick links -->
+<!-- create with code -->
+[cwc01]:# "repo link"
+[cwc02]:# "repo link"
+[cwc03]:# "repo link"
+[cwc04]:# "repo link"
+[cwc05]:# "repo link"
+<!-- junior programmer -->
+[jp01]:01_mod_the_cube
+[jp02]:# "repo link"
+[jp03]:# "repo link"
+[jp04]:# "repo link"
+[jp05]:# "repo link"
+[jp06]:# "repo link"
+[jp07]:# "repo link"
 
-<h2><img src=".github/images/unity/jp_mission_3_25x25.webp"> Manage Scene Flow and Data</h2>
-
-- Scene Flow & Data Persistence
-- Challenge: Data Persistence
-
-<h2><img src=".github/images/unity/jp_mission_3_25x25.webp"> Apply Object-Oriented Principles</h2>
-
-- Object-Oriented Programming
-- Challenge: Programming Theory
+<!-- prototypes & challenges -->
+<!-- create with code -->
+[proto01]:https://play.unity.com/mg/other/webgl-builds-56586 "play demo"
+[chal01]:https://play.unity.com/mg/other/webgl-builds-79416 "play demo"
+[proto02]:https://play.unity.com/mg/other/webgl-builds-57550 "play demo"
+[chal02]:https://play.unity.com/mg/other/webgl-builds-79497 "play demo"
+[proto03]:https://play.unity.com/mg/other/webgl-builds-59309 "play demo"
+[chal03]:https://play.unity.com/mg/other/webgl-builds-79891 "play demo"
+[proto04]:https://play.unity.com/mg/other/webgl-builds-80001 "play demo"
+[chal04]:https://play.unity.com/mg/other/webgl-builds-79903 "play demo"
+[proto05]:https://play.unity.com/mg/other/webgl-builds-80427 "play demo"
+[chal05]:https://play.unity.com/mg/other/webgl-builds-80224 "play demo"
+<!-- junior programmer -->
+[jp-chal01]:https://play.unity.com/mg/other/webgl-builds-57644 "play demo"
