@@ -19,13 +19,13 @@ Designed for anyone interested in learning to code or obtaining an entry-level U
 | <h3 align="center">Project</h3>     | <h3 align="center">Summary</h3>                                                                  |
 | :---------------------------------- | :----------------------------------------------------------------------------------------------- |
 | [Player Control][cwc01]             | Build a basic [driving simulator][proto01] and [flight simulator][chal01].                       |
-| [Mod the Cube][jp01]                | Modidfy a script to [change the behviour][jp01] of an object.                                    |
+| [Mod the Cube][jp01]                | Modify a script to [change the behviour][jp-chal01] of an object.                                |
 | [Basic Gameplay][cwc02]             | Build a simple top-down [animal feeding game][proto02] and [game of fetch][chal02].              |
 | [Sound and Effects][cwc03]          | Build a face-paced endless side-scroller both [on the ground][proto03] and [in the air][chal03]. |
 | [Gameplay Mechanics][cwc04]         | Build an arcade-style [Sumo battle][proto04] and [soccer game][chal04].                          |
 | [User Interfaces][cwc05]            | Build a reflexive [clicking game][proto05] and [whack-a-mole][chal05] style game.                |
-| [Counting ProtoType][jp02]          | [view project][jp02]                                                                             |
-| [Debug the App][jp03]               | [view project][jp03]                                                                             |
+| [Counting ProtoType][jp02]          | Build a prototype that uses a provided [counting functionality][jp-chal02].                      |
+| [Debug the App][jp03]               | Debug a provided project so that it can [run as intended][jp-chal03].                            |
 | [Scene Flow & Data][jp04]           | [view project][jp04]                                                                             |
 | [Data Persistence][jp05]            | [view project][jp05]                                                                             |
 | [Object-Oriented Programming][jp06] | [view project][jp06]                                                                             |
@@ -44,13 +44,13 @@ Designed for anyone interested in learning to code or obtaining an entry-level U
 [cwc04]:# "repo link"
 [cwc05]:# "repo link"
 <!-- junior programmer -->
-[jp01]:01_mod_the_cube
-[jp02]:# "repo link"
-[jp03]:# "repo link"
-[jp04]:# "repo link"
-[jp05]:# "repo link"
-[jp06]:# "repo link"
-[jp07]:# "repo link"
+[jp01]:Mod%20the%20Cube
+[jp02]:Counting%20Prototype
+[jp03]:Debug%20the%20App
+[jp04]:Inventory%20Manager
+[jp05]:Data%20Persistence
+[jp06]:Object-Oriented%20Programming
+[jp07]:Programming%20Theory
 
 <!-- prototypes & challenges -->
 <!-- create with code -->
@@ -66,3 +66,9 @@ Designed for anyone interested in learning to code or obtaining an entry-level U
 [chal05]:https://play.unity.com/mg/other/webgl-builds-80224 "play demo"
 <!-- junior programmer -->
 [jp-chal01]:https://play.unity.com/mg/other/webgl-builds-57644 "play demo"
+[jp-chal02]:https://play.unity.com/mg/other/webgl-builds-81337 "play demo"
+[jp-chal03]:https://play.unity.com/mg/other/webgl-builds-81361 "play demo"
+[jp-chal04]:# "play demo"
+[jp-chal05]:https://play.unity.com/mg/other/challenge-data-persistence "play demo"
+[jp-chal06]:# "play demo"
+[jp-chal07]:# "play demo"
